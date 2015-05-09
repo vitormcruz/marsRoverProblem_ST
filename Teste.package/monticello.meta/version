@@ -1,1 +1,1 @@
-(name 'Teste-vitor.1' message 'empty log message' id '2dc9023c-7463-da4d-b416-5c4c7630a095' date '8 May 2015' time '9:56:07.045819 pm' author 'vitor' ancestors () stepChildren ())
+(name 'Teste-vitor.2' message 'empty log message' id '9137b7f3-4be6-3a41-8bfa-6450f81dc073' date '8 May 2015' time '11:06:07.936244 pm' author 'vitor' ancestors ((name 'Teste-vitor.1' message 'empty log message' id '2dc9023c-7463-da4d-b416-5c4c7630a095' date '8 May 2015' time '9:56:07.045819 pm' author 'vitor' ancestors () stepChildren ())) stepChildren ())
