@@ -1,0 +1,14 @@
+{
+	"category" : "MarsRoverProblem",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "Rover",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }
