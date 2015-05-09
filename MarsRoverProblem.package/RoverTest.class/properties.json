@@ -1,0 +1,14 @@
+{
+	"category" : "MarsRoverProblem-Test",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "RoverTest",
+	"pools" : [
+		 ],
+	"super" : "TestCase",
+	"type" : "normal" }
