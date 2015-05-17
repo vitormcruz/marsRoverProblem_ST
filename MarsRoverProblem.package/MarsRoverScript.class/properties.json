@@ -1,0 +1,15 @@
+{
+	"category" : "MarsRoverProblem-external-presentation-transcript",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "vitor 5/16/2015 23:11",
+	"instvars" : [
+		"transcriptMarsRover",
+		"script" ],
+	"name" : "MarsRoverScript",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

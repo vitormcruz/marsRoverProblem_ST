@@ -1,0 +1,3 @@
+script building
+finishAndSendRoversToMars
+	transcriptMarsRover sendRoversToMarsUsing: self.

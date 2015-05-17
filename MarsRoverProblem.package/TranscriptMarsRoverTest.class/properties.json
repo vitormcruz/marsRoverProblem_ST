@@ -1,0 +1,14 @@
+{
+	"category" : "MarsRoverProblem-test-external-presentation-transcript",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "vitor 5/16/2015 21:53",
+	"instvars" : [
+		 ],
+	"name" : "TranscriptMarsRoverTest",
+	"pools" : [
+		 ],
+	"super" : "BabyMock2TestCase",
+	"type" : "normal" }

@@ -1,0 +1,1 @@
+I am a fake of the Transcript object used in tests of the Mars Rover Problem implementation.
